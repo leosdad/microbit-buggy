@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "pxt build",
+    "deploy": "pxt deploy",
+    "flash": "pxt deploy"
+  },
+  "dependencies": {
+    "pxt-microbit": "^8.1.20"
+  }
+}
