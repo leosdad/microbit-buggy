@@ -1,8 +1,8 @@
 {
   "scripts": {
     "build": "pxt build",
-    "deploy": "pxt deploy",
-    "flash": "pxt deploy"
+    "flash": "pxt deploy",
+    "test": "pxt test"
   },
   "dependencies": {
     "pxt-microbit": "^8.1.20"
