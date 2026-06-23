@@ -1,10 +1,10 @@
 {
     "name": "Microbit buggy",
     "version": "0.0.0",
-    "description": "",
+    "description": "Bluetooth UART controlled buggy for micro:bit v1.",
     "dependencies": {
+        "bluetooth": "*",
         "core": "*",
-        "radio": "*",
         "microphone": "*"
     },
     "files": [
@@ -19,5 +19,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
